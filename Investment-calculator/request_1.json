@@ -1,0 +1,3221 @@
+[
+  {
+    "assetId": "39590953283",
+    "appid": "730",
+    "classid": "3035573486",
+    "instanceid": "302028390",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3fDJW-NCzkL-YlvnwDLPUl31IppQm2L7Eoo-ijA3i_xc9NzygJYbBdAQ-ZA3VrFG2kr_ogMLp6ZqYz3J9-n51beCRccs",
+    "icon_drag_url": "",
+    "name": "UMP-45 | Mudder",
+    "market_hash_name": "UMP-45 | Mudder (Battle-Scarred)",
+    "market_name": "UMP-45 | Mudder (Battle-Scarred)",
+    "name_color": "D2D2D2",
+    "background_color": "",
+    "type": "Consumer Grade SMG",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Battle-Scarred"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been painted in a marbleized pattern."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The 2018 Inferno Collection",
+        "color": "9da1a9",
+        "app_data": {
+          "def_index": "65535",
+          "is_itemset_name": 1
+        }
+      },
+      {
+        "type": "html",
+        "value": " "
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D11530977075198656004"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D11530977075198656004"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_SMG",
+        "name": "SMG",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "weapon_ump45",
+        "name": "UMP-45",
+        "category": "Weapon",
+        "category_name": "Weapon"
+      },
+      {
+        "internal_name": "set_inferno_2",
+        "name": "The 2018 Inferno Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "normal",
+        "name": "Normal",
+        "category": "Quality",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Common_Weapon",
+        "name": "Consumer Grade",
+        "category": "Rarity",
+        "color": "b0c3d9",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory4",
+        "name": "Battle-Scarred",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      }
+    ],
+    "info": {
+      "origin": 24,
+      "quality": 4,
+      "rarity": 1,
+      "paintseed": 121,
+      "defindex": 24,
+      "paintindex": 90,
+      "floatvalue": 0.466560035943985,
+      "floatid": 39590953283,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_ump45_hy_mottled_sand_light_large.14c5d59d597a00bdccaefe47a99de0e5b1f884d6.png",
+      "min": 0.06,
+      "max": 0.8,
+      "weapon_type": "UMP-45",
+      "item_name": "Mudder",
+      "rarity_name": "Consumer Grade",
+      "quality_name": "Unique",
+      "wear_name": "Battle-Scarred",
+      "full_item_name": "UMP-45 | Mudder (Battle-Scarred)",
+      "s": "76561198077947014",
+      "a": "39590953283",
+      "d": "11530977075198656004",
+      "m": "0"
+    }
+  },
+  {
+    "assetId": "39590953282",
+    "appid": "730",
+    "classid": "3946324730",
+    "instanceid": "302028390",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU2nfGaJG0btN2wwYHfxa-hY-uFxj4Dv50nj7uXpI7w3AewrhBpMWH6d9CLMlhpEbAe-Zk",
+    "icon_drag_url": "",
+    "name": "Fracture Case",
+    "market_hash_name": "Fracture Case",
+    "market_name": "Fracture Case",
+    "name_color": "D2D2D2",
+    "background_color": "",
+    "type": "Base Grade Container",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 1,
+    "market_tradable_restriction": "7",
+    "market_buy_country_restriction": "FR",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Container Series #307",
+        "color": "99ccff"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Contains one of the following:"
+      },
+      {
+        "type": "html",
+        "value": "Negev | Ultralight",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "P2000 | Gnarled",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "SG 553 | Ol' Rusty",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "SSG 08 | Mainframe 001",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "P250 | Cassette",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "P90 | Freight",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "PP-Bizon | Runic",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "MAG-7 | Monster Call",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "Tec-9 | Brother",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "MAC-10 | Allure",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "Galil AR | Connexion",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "MP5-SD | Kitbash",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "M4A4 | Tooth Fairy",
+        "color": "d32ce6"
+      },
+      {
+        "type": "html",
+        "value": "Glock-18 | Vogue",
+        "color": "d32ce6"
+      },
+      {
+        "type": "html",
+        "value": "XM1014 | Entombed",
+        "color": "d32ce6"
+      },
+      {
+        "type": "html",
+        "value": "Desert Eagle | Printstream",
+        "color": "eb4b4b"
+      },
+      {
+        "type": "html",
+        "value": "AK-47 | Legion of Anubis",
+        "color": "eb4b4b"
+      },
+      {
+        "type": "html",
+        "value": "or an Exceedingly Rare Special Item!",
+        "color": "ffd700"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "",
+        "color": "00a000",
+        "app_data": {
+          "limited": 1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_WeaponCase",
+        "name": "Container",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "set_community_26",
+        "name": "The Fracture Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "normal",
+        "name": "Normal",
+        "category": "Quality",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Common",
+        "name": "Base Grade",
+        "category": "Rarity",
+        "color": "b0c3d9",
+        "category_name": "Quality"
+      }
+    ]
+  },
+  {
+    "assetId": "39311038689",
+    "appid": "730",
+    "classid": "3035573486",
+    "instanceid": "302028390",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3fDJW-NCzkL-YlvnwDLPUl31IppQm2L7Eoo-ijA3i_xc9NzygJYbBdAQ-ZA3VrFG2kr_ogMLp6ZqYz3J9-n51beCRccs",
+    "icon_drag_url": "",
+    "name": "UMP-45 | Mudder",
+    "market_hash_name": "UMP-45 | Mudder (Battle-Scarred)",
+    "market_name": "UMP-45 | Mudder (Battle-Scarred)",
+    "name_color": "D2D2D2",
+    "background_color": "",
+    "type": "Consumer Grade SMG",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Battle-Scarred"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been painted in a marbleized pattern."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The 2018 Inferno Collection",
+        "color": "9da1a9",
+        "app_data": {
+          "def_index": "65535",
+          "is_itemset_name": 1
+        }
+      },
+      {
+        "type": "html",
+        "value": " "
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D11530977075198656004"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D11530977075198656004"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_SMG",
+        "name": "SMG",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "weapon_ump45",
+        "name": "UMP-45",
+        "category": "Weapon",
+        "category_name": "Weapon"
+      },
+      {
+        "internal_name": "set_inferno_2",
+        "name": "The 2018 Inferno Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "normal",
+        "name": "Normal",
+        "category": "Quality",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Common_Weapon",
+        "name": "Consumer Grade",
+        "category": "Rarity",
+        "color": "b0c3d9",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory4",
+        "name": "Battle-Scarred",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      }
+    ],
+    "info": {
+      "origin": 24,
+      "quality": 4,
+      "rarity": 1,
+      "paintseed": 174,
+      "defindex": 24,
+      "paintindex": 90,
+      "floatvalue": 0.6371006369590759,
+      "floatid": 39311038689,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_ump45_hy_mottled_sand_light_large.14c5d59d597a00bdccaefe47a99de0e5b1f884d6.png",
+      "min": 0.06,
+      "max": 0.8,
+      "weapon_type": "UMP-45",
+      "item_name": "Mudder",
+      "rarity_name": "Consumer Grade",
+      "quality_name": "Unique",
+      "wear_name": "Battle-Scarred",
+      "full_item_name": "UMP-45 | Mudder (Battle-Scarred)",
+      "s": "76561198077947014",
+      "a": "39311038689",
+      "d": "11530977075198656004",
+      "m": "0"
+    }
+  },
+  {
+    "assetId": "39311038688",
+    "appid": "730",
+    "classid": "4901046679",
+    "instanceid": "302028390",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQxnaecIT8Wv9rilYTYkfTyNuiFwmhUvpZz3-2Z9oqg0Vew80NvZzuiJdeLMlhpwFO-XdA",
+    "icon_drag_url": "",
+    "name": "Recoil Case",
+    "market_hash_name": "Recoil Case",
+    "market_name": "Recoil Case",
+    "name_color": "D2D2D2",
+    "background_color": "",
+    "type": "Base Grade Container",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 1,
+    "market_tradable_restriction": "7",
+    "market_buy_country_restriction": "FR",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Container Series #355",
+        "color": "99ccff"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Contains one of the following:"
+      },
+      {
+        "type": "html",
+        "value": "FAMAS | Meow 36",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "Galil AR | Destroyer",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "M4A4 | Poly Mag",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "MAC-10 | Monkeyflage",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "Negev | Drop Me",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "UMP-45 | Roadblock",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "Glock-18 | Winterized",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "R8 Revolver | Crazy 8",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "M249 | Downtown",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "SG 553 | Dragon Tech",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "P90 | Vent Rush",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "Dual Berettas | Flora Carnivora",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "AK-47 | Ice Coaled",
+        "color": "d32ce6"
+      },
+      {
+        "type": "html",
+        "value": "P250 | Visions",
+        "color": "d32ce6"
+      },
+      {
+        "type": "html",
+        "value": "Sawed-Off | Kiss♥Love",
+        "color": "d32ce6"
+      },
+      {
+        "type": "html",
+        "value": "USP-S | Printstream",
+        "color": "eb4b4b"
+      },
+      {
+        "type": "html",
+        "value": "AWP | Chromatic Aberration",
+        "color": "eb4b4b"
+      },
+      {
+        "type": "html",
+        "value": "or the Exceedingly Rare Gloves!",
+        "color": "ffd700"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "",
+        "color": "00a000",
+        "app_data": {
+          "limited": 1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_WeaponCase",
+        "name": "Container",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "set_community_31",
+        "name": "The Recoil Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "normal",
+        "name": "Normal",
+        "category": "Quality",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Common",
+        "name": "Base Grade",
+        "category": "Rarity",
+        "color": "b0c3d9",
+        "category_name": "Quality"
+      }
+    ]
+  },
+  {
+    "assetId": "39239914540",
+    "appid": "730",
+    "classid": "5799821644",
+    "instanceid": "188530139",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ3KghTrL-3Kjho3P_HP21BvIS3koLex_P3MeiIzjJXv8Mj0uyQo46j2QXj8kNlMjr7d4_EJwcgIQaH0H8SLdo",
+    "icon_drag_url": "",
+    "name": "Sticker | coldzera (Holo) | Copenhagen 2024",
+    "market_hash_name": "Sticker | coldzera (Holo) | Copenhagen 2024",
+    "market_name": "Sticker | coldzera (Holo) | Copenhagen 2024",
+    "name_color": "D2D2D2",
+    "background_color": "",
+    "type": "Exotic Sticker",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 1,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.",
+        "color": "ffd700"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "This holographic sticker was autographed by professional player Marcelo David playing for Legacy at the PGL Copenhagen 2024 CS2 Major Championship."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "",
+        "color": "00a000",
+        "app_data": {
+          "limited": 1
+        }
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2481148090084089483"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2481148090084089483"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Tool_Sticker",
+        "name": "Sticker",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "normal",
+        "name": "Normal",
+        "category": "Quality",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Legendary",
+        "name": "Exotic",
+        "category": "Rarity",
+        "color": "d32ce6",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "PlayerSignature",
+        "name": "Player Autograph",
+        "category": "StickerCategory",
+        "category_name": "Sticker Type"
+      },
+      {
+        "internal_name": "Tournament22",
+        "name": "PGL Copenhagen 2024",
+        "category": "Tournament",
+        "category_name": "Tournament"
+      },
+      {
+        "internal_name": "Team126",
+        "name": "Legacy",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      },
+      {
+        "internal_name": "coldzera",
+        "name": "coldzera (Marcelo David)",
+        "category": "ProPlayer",
+        "category_name": "Professional Player"
+      },
+      {
+        "internal_name": "crate_signature_pack_cph2024_group_players_collection",
+        "name": "Copenhagen 2024 Player Autographs",
+        "category": "StickerCapsule",
+        "category_name": "Sticker Collection"
+      }
+    ],
+    "info": {
+      "origin": 8,
+      "quality": 4,
+      "rarity": 5,
+      "paintseed": 0,
+      "defindex": 1209,
+      "paintindex": 0,
+      "stickers": [
+        {
+          "stickerId": 7825,
+          "slot": 0,
+          "wear": 0
+        }
+      ],
+      "floatvalue": 0,
+      "min": 0.06,
+      "max": 0.8,
+      "weapon_type": "Sticker",
+      "item_name": "-",
+      "rarity_name": "Exotic",
+      "quality_name": "Unique",
+      "full_item_name": "Sticker",
+      "s": "76561198077947014",
+      "a": "39239914540",
+      "d": "2481148090084089483",
+      "m": "0"
+    }
+  },
+
+  {
+    "assetId": "39238031684",
+    "appid": "730",
+    "classid": "311266270",
+    "instanceid": "188530139",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJYAJA4MmzkL-GkvP9JrafzzkGscEpjrCUpduljFXgrRVoY2jzJdKTewc2NQ3XrAPrxbrsg8e97oOJlyW-GA8PoQ",
+    "icon_drag_url": "",
+    "name": "★ Bayonet | Blue Steel",
+    "market_hash_name": "★ Bayonet | Blue Steel (Well-Worn)",
+    "market_name": "★ Bayonet | Blue Steel (Well-Worn)",
+    "name_color": "8650AC",
+    "background_color": "",
+    "type": "★ Covert Knife",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Well-Worn"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan. It has been cold blued.\n\n<i>This is the malbec of weapon design - Booth, Arms Dealer</i>"
+      },
+      {
+        "type": "html",
+        "value": " "
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D4911929802370918658"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D4911929802370918658"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_Knife",
+        "name": "Knife",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "weapon_bayonet",
+        "name": "Bayonet",
+        "category": "Weapon",
+        "category_name": "Weapon"
+      },
+      {
+        "internal_name": "unusual",
+        "name": "★",
+        "category": "Quality",
+        "color": "8650AC",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Ancient_Weapon",
+        "name": "Covert",
+        "category": "Rarity",
+        "color": "eb4b4b",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory3",
+        "name": "Well-Worn",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      }
+    ],
+    "info": {
+      "origin": 8,
+      "quality": 3,
+      "rarity": 6,
+      "paintseed": 122,
+      "defindex": 500,
+      "paintindex": 42,
+      "floatvalue": 0.4257606267929077,
+      "floatid": 18485442377,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_bayonet_aq_blued_light_large.40905736c36dbdb9d08077ddaebb06cbb237f583.png",
+      "min": 0,
+      "max": 1,
+      "weapon_type": "Bayonet",
+      "item_name": "Blue Steel",
+      "rarity_name": "Covert",
+      "quality_name": "★",
+      "wear_name": "Well-Worn",
+      "full_item_name": "★ Bayonet | Blue Steel (Well-Worn)",
+      "s": "76561198077947014",
+      "a": "39238031684",
+      "d": "4911929802370918658",
+      "m": "0"
+    }
+  },
+
+  
+  {
+    "assetId": "39238031672",
+    "appid": "730",
+    "classid": "4726168367",
+    "instanceid": "188530139",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09K_k4ifgP7nO4Tdn2xZ_IskiO2Vp4ikjQft-EJpNT_7IoSUIw8_M17R-Fbsk-3rh8Pt78zOnCcxpGB8sinnd9A3",
+    "icon_drag_url": "",
+    "name": "AK-47 | Nightwish",
+    "market_hash_name": "AK-47 | Nightwish (Factory New)",
+    "market_name": "AK-47 | Nightwish (Factory New)",
+    "name_color": "D2D2D2",
+    "background_color": "",
+    "type": "Covert Rifle",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Factory New"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted with a deer and dreamcatchers in neon colors and finished with a pearlescent effect.\n\n<i>I've been saving this for a special occasion... – Booth, Arms Dealer</i>"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The Dreams & Nightmares Collection",
+        "color": "9da1a9",
+        "app_data": {
+          "def_index": "65535",
+          "is_itemset_name": 1
+        }
+      },
+      {
+        "type": "html",
+        "value": " "
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16874040999196903325"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16874040999196903325"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_Rifle",
+        "name": "Rifle",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "weapon_ak47",
+        "name": "AK-47",
+        "category": "Weapon",
+        "category_name": "Weapon"
+      },
+      {
+        "internal_name": "set_community_30",
+        "name": "The Dreams & Nightmares Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "normal",
+        "name": "Normal",
+        "category": "Quality",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Ancient_Weapon",
+        "name": "Covert",
+        "category": "Rarity",
+        "color": "eb4b4b",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory0",
+        "name": "Factory New",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      }
+    ],
+    "info": {
+      "origin": 8,
+      "quality": 4,
+      "rarity": 6,
+      "paintseed": 972,
+      "defindex": 7,
+      "paintindex": 1141,
+      "floatvalue": 0.04572463408112526,
+      "floatid": 37556147145,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_nightwish_light_large.0c4581be094e2bd732bec18ebdad2f71b1018af2.png",
+      "min": 0,
+      "max": 1,
+      "weapon_type": "AK-47",
+      "item_name": "Nightwish",
+      "rarity_name": "Covert",
+      "quality_name": "Unique",
+      "wear_name": "Factory New",
+      "full_item_name": "AK-47 | Nightwish (Factory New)",
+      "s": "76561198077947014",
+      "a": "39238031672",
+      "d": "16874040999196903325",
+      "m": "0"
+    }
+  },
+  {
+    "assetId": "39192657523",
+    "appid": "730",
+    "classid": "3035569529",
+    "instanceid": "302028390",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3czFX6cyknY6fqPX4Jr7Dk29u5cB1g_zMu9ygiQDk_RU_YziiIdLAdlJvMljXrwXsxbvugJDov5nAy3I17igqtn7D30vgJD2EjJ0",
+    "icon_drag_url": "",
+    "name": "UMP-45 | Facility Dark",
+    "market_hash_name": "UMP-45 | Facility Dark (Field-Tested)",
+    "market_name": "UMP-45 | Facility Dark (Field-Tested)",
+    "name_color": "D2D2D2",
+    "background_color": "",
+    "type": "Consumer Grade SMG",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Field-Tested"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. A blue hydrographic pattern resembling a nuclear power plant has been applied.\n\n<i>Cut the lights</i>"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The 2018 Nuke Collection",
+        "color": "9da1a9",
+        "app_data": {
+          "def_index": "65535",
+          "is_itemset_name": 1
+        }
+      },
+      {
+        "type": "html",
+        "value": " "
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D17168298061251476710"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D17168298061251476710"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_SMG",
+        "name": "SMG",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "weapon_ump45",
+        "name": "UMP-45",
+        "category": "Weapon",
+        "category_name": "Weapon"
+      },
+      {
+        "internal_name": "set_nuke_2",
+        "name": "The 2018 Nuke Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "normal",
+        "name": "Normal",
+        "category": "Quality",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Common_Weapon",
+        "name": "Consumer Grade",
+        "category": "Rarity",
+        "color": "b0c3d9",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory2",
+        "name": "Field-Tested",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      }
+    ],
+    "info": {
+      "origin": 24,
+      "quality": 4,
+      "rarity": 1,
+      "paintseed": 875,
+      "defindex": 24,
+      "paintindex": 778,
+      "floatvalue": 0.20583243668079376,
+      "floatid": 39192657523,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_ump45_hy_blueprint_bluered_light_large.1f2e4c38f9f9e7e1d815aeb5af99c499c5ff4951.png",
+      "min": 0,
+      "max": 0.5,
+      "weapon_type": "UMP-45",
+      "item_name": "Facility Dark",
+      "rarity_name": "Consumer Grade",
+      "quality_name": "Unique",
+      "wear_name": "Field-Tested",
+      "full_item_name": "UMP-45 | Facility Dark (Field-Tested)",
+      "s": "76561198077947014",
+      "a": "39192657523",
+      "d": "17168298061251476710",
+      "m": "0"
+    }
+  },
+  {
+    "assetId": "39192657522",
+    "appid": "730",
+    "classid": "5189384637",
+    "instanceid": "302028390",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQynaHMJT9B74-ywtjYxfOmMe_Vx28AucQj3brAoYrz3Fay_kY4MG_wdYeLMlhpLMaM-1U",
+    "icon_drag_url": "",
+    "name": "Revolution Case",
+    "market_hash_name": "Revolution Case",
+    "market_name": "Revolution Case",
+    "name_color": "D2D2D2",
+    "background_color": "",
+    "type": "Base Grade Container",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 1,
+    "market_tradable_restriction": "7",
+    "market_buy_country_restriction": "FR",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Container Series #376",
+        "color": "99ccff"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Contains one of the following:"
+      },
+      {
+        "type": "html",
+        "value": "MAG-7 | Insomnia",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "MP9 | Featherweight",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "SCAR-20 | Fragments",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "P250 | Re.built",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "MP5-SD | Liquidation",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "SG 553 | Cyberforce",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "Tec-9 | Rebel",
+        "color": "4b69ff"
+      },
+      {
+        "type": "html",
+        "value": "M4A1-S | Emphorosaur-S",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "Glock-18 | Umbral Rabbit",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "MAC-10 | Sakkaku",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "R8 Revolver | Banana Cannon",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "P90 | Neoqueen",
+        "color": "8847ff"
+      },
+      {
+        "type": "html",
+        "value": "AWP | Duality",
+        "color": "d32ce6"
+      },
+      {
+        "type": "html",
+        "value": "UMP-45 | Wild Child",
+        "color": "d32ce6"
+      },
+      {
+        "type": "html",
+        "value": "P2000 | Wicked Sick",
+        "color": "d32ce6"
+      },
+      {
+        "type": "html",
+        "value": "M4A4 | Temukau",
+        "color": "eb4b4b"
+      },
+      {
+        "type": "html",
+        "value": "AK-47 | Head Shot",
+        "color": "eb4b4b"
+      },
+      {
+        "type": "html",
+        "value": "or the Exceedingly Rare Gloves!",
+        "color": "ffd700"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "",
+        "color": "00a000",
+        "app_data": {
+          "limited": 1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_WeaponCase",
+        "name": "Container",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "set_community_32",
+        "name": "The Revolution Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "normal",
+        "name": "Normal",
+        "category": "Quality",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Common",
+        "name": "Base Grade",
+        "category": "Rarity",
+        "color": "b0c3d9",
+        "category_name": "Quality"
+      }
+    ]
+  },
+  {
+    "assetId": "38993308540",
+    "appid": "730",
+    "classid": "1285534746",
+    "instanceid": "188530139",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3eDNG5du5q4GFk8jzIb7IqWZU7Mxkh6eQrdSn0FK1qUBqNzigJIeQcFRvNVrVrFe5k-vt1sC96J3IwXNjvXYn-z-DyCvEO6uU",
+    "icon_drag_url": "",
+    "name": "Souvenir UMP-45 | Indigo",
+    "market_hash_name": "Souvenir UMP-45 | Indigo (Field-Tested)",
+    "market_name": "Souvenir UMP-45 | Indigo (Field-Tested)",
+    "name_color": "FFD700",
+    "background_color": "",
+    "type": "Souvenir Consumer Grade SMG",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Field-Tested"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "This item commemorates the 2015 ESL One Cologne CS:GO Championship.",
+        "color": "ffd700"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "It was dropped during the Group Stage match between mousesports and Flipsid3 Tactics, and autographed by Yegor Markelov who was the most valuable player in that round.",
+        "color": "ffd700"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been painted solid colors in indigo, blue and grey.\n\n<i>Alex Kincaide, I'm sure you have many questions... please allow me to give you answers - The Phoenix and The Storyteller Part 1</i>"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The Cobblestone Collection",
+        "color": "9da1a9",
+        "app_data": {
+          "def_index": "65535",
+          "is_itemset_name": 1
+        }
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/esl_gold.edf8499aca60cdac30376ab374ba609c55011fa2.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/mousesports_gold.d45ee350b57f981a81bf011059b52ea417c88426.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_markeloff_gold.a83efe685e2834fd062de78ecfdcccfc18fa1186.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/flipside_gold.2d3d8ca50efd068346a10644aaa8779a5f1859f2.png\"><br>Sticker: ESL (Gold) | Cologne 2015, mousesports (Gold) | Cologne 2015, markeloff (Gold) | Cologne 2015, Flipsid3 Tactics (Gold) | Cologne 2015</center></div>",
+        "app_data": {
+          "def_index": "65535"
+        }
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5053223975774313198"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D5053223975774313198"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_SMG",
+        "name": "SMG",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "weapon_ump45",
+        "name": "UMP-45",
+        "category": "Weapon",
+        "category_name": "Weapon"
+      },
+      {
+        "internal_name": "set_cobblestone",
+        "name": "The Cobblestone Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "tournament",
+        "name": "Souvenir",
+        "category": "Quality",
+        "color": "FFD700",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Common_Weapon",
+        "name": "Consumer Grade",
+        "category": "Rarity",
+        "color": "b0c3d9",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory2",
+        "name": "Field-Tested",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      },
+      {
+        "internal_name": "Tournament7",
+        "name": "2015 ESL One Cologne",
+        "category": "Tournament",
+        "category_name": "Tournament"
+      },
+      {
+        "internal_name": "Team29",
+        "name": "mousesports",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      },
+      {
+        "internal_name": "Team43",
+        "name": "Flipsid3 Tactics",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      },
+      {
+        "internal_name": "markeloff",
+        "name": "markeloff (Yegor Markelov)",
+        "category": "ProPlayer",
+        "category_name": "Professional Player"
+      }
+    ],
+    "info": {
+      "origin": 8,
+      "quality": 12,
+      "rarity": 1,
+      "paintseed": 547,
+      "defindex": 24,
+      "paintindex": 333,
+      "stickers": [
+        {
+          "stickerId": 670,
+          "slot": 0,
+          "wear": 0,
+          "codename": "eslcologne2015_team_esl_gold",
+          "material": "cologne2015/esl_gold",
+          "name": "ESL (Gold) | Cologne 2015"
+        },
+        {
+          "stickerId": 628,
+          "slot": 1,
+          "wear": 0,
+          "codename": "eslcologne2015_team_mousesports_gold",
+          "material": "cologne2015/mousesports_gold",
+          "name": "mousesports (Gold) | Cologne 2015"
+        },
+        {
+          "stickerId": 532,
+          "slot": 2,
+          "wear": 0,
+          "codename": "eslcologne2015_signature_markeloff_gold",
+          "material": "cologne2015/sig_markeloff_gold",
+          "name": "markeloff (Gold) | Cologne 2015"
+        },
+        {
+          "stickerId": 661,
+          "slot": 3,
+          "wear": 0,
+          "codename": "eslcologne2015_team_flipside_gold",
+          "material": "cologne2015/flipside_gold",
+          "name": "Flipsid3 Tactics (Gold) | Cologne 2015"
+        }
+      ],
+      "floatvalue": 0.18202008306980133,
+      "floatid": 3349366562,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_ump45_so_indigo_and_grey_light_large.7a4685c334bf103f25ba1865dc0492315bf0ca5c.png",
+      "min": 0.06,
+      "max": 0.8,
+      "weapon_type": "UMP-45",
+      "item_name": "Indigo",
+      "rarity_name": "Consumer Grade",
+      "quality_name": "Souvenir",
+      "wear_name": "Field-Tested",
+      "full_item_name": "Souvenir UMP-45 | Indigo (Field-Tested)",
+      "s": "76561198077947014",
+      "a": "38993308540",
+      "d": "5053223975774313198",
+      "m": "0"
+    }
+  },
+  {
+    "assetId": "38991613913",
+    "appid": "730",
+    "classid": "3016417163",
+    "instanceid": "188530139",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszGZD5O6d2kq5OAgvv4IO_uhjkEuPp9g-7J4cKs0FXh_kQ_ZG2hIoCRcAI_MgzQ_lS2x-fvh8S-vprPyiBiv3Yq433dgVXp1iQ45eAc",
+    "icon_drag_url": "",
+    "name": "Souvenir P250 | Contamination",
+    "market_hash_name": "Souvenir P250 | Contamination (Minimal Wear)",
+    "market_name": "Souvenir P250 | Contamination (Minimal Wear)",
+    "name_color": "FFD700",
+    "background_color": "",
+    "type": "Souvenir Industrial Grade Pistol",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Minimal Wear"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "This item commemorates the 2018 FACEIT London CS:GO Championship.",
+        "color": "ffd700"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "It was dropped during the Group Stage match between MIBR and Ninjas in Pyjamas, and autographed by Jacky Yip who was the most valuable player in that round.",
+        "color": "ffd700"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been painted with a hydrographic pattern of nuclear skulls and bones."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The Cache Collection",
+        "color": "9da1a9",
+        "app_data": {
+          "def_index": "65535",
+          "is_itemset_name": 1
+        }
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/faceit_gold.c4c827676b1b20384c53bcdf3da5f6069df4d386.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/sig_stewie2k_gold.bcc9d17e7bd2a61d5bcc3f2c4fe286789f20d0f4.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/mibr_gold.f01c3d6737f2c9c09a41aeff78022cbe3514ed14.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/nip_gold.c53c3861d38fa89f8369d85172b7b0d9e02f8be8.png\"><br>Sticker: FACEIT (Gold) | London 2018, Stewie2K (Gold) | London 2018, MIBR (Gold) | London 2018, Ninjas in Pyjamas (Gold) | London 2018</center></div>",
+        "app_data": {
+          "def_index": "65535"
+        }
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D17169068279948043590"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D17169068279948043590"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_Pistol",
+        "name": "Pistol",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "weapon_p250",
+        "name": "P250",
+        "category": "Weapon",
+        "category_name": "Weapon"
+      },
+      {
+        "internal_name": "set_cache",
+        "name": "The Cache Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "tournament",
+        "name": "Souvenir",
+        "category": "Quality",
+        "color": "FFD700",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Uncommon_Weapon",
+        "name": "Industrial Grade",
+        "category": "Rarity",
+        "color": "5e98d9",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory1",
+        "name": "Minimal Wear",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      },
+      {
+        "internal_name": "Tournament14",
+        "name": "2018 FACEIT London",
+        "category": "Tournament",
+        "category_name": "Tournament"
+      },
+      {
+        "internal_name": "Team80",
+        "name": "MIBR",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      },
+      {
+        "internal_name": "Team1",
+        "name": "Ninjas in Pyjamas",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      },
+      {
+        "internal_name": "stewie2k",
+        "name": "Stewie2K (Jacky Yip)",
+        "category": "ProPlayer",
+        "category_name": "Professional Player"
+      }
+    ],
+    "info": {
+      "origin": 8,
+      "quality": 12,
+      "rarity": 2,
+      "paintseed": 440,
+      "defindex": 36,
+      "paintindex": 373,
+      "stickers": [
+        {
+          "stickerId": 3054,
+          "slot": 0,
+          "wear": 0,
+          "codename": "london2018_team_faceit_gold",
+          "material": "london2018/faceit_gold",
+          "name": "FACEIT (Gold) | London 2018"
+        },
+        {
+          "stickerId": 3136,
+          "slot": 1,
+          "wear": 0,
+          "codename": "london2018_signature_stewie2k_gold",
+          "material": "london2018/sig_stewie2k_gold",
+          "name": "Stewie2K (Gold) | London 2018"
+        },
+        {
+          "stickerId": 2970,
+          "slot": 2,
+          "wear": 0,
+          "codename": "london2018_team_mibr_gold",
+          "material": "london2018/mibr_gold",
+          "name": "MIBR (Gold) | London 2018"
+        },
+        {
+          "stickerId": 3022,
+          "slot": 3,
+          "wear": 0,
+          "codename": "london2018_team_nip_gold",
+          "material": "london2018/nip_gold",
+          "name": "Ninjas in Pyjamas (Gold) | London 2018"
+        }
+      ],
+      "floatvalue": 0.1356404721736908,
+      "floatid": 14851008528,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_p250_hy_nuclear_skulls4_p250_light_large.83b7c2eeff0d6fd0e6d780be0815111d199a46d6.png",
+      "min": 0,
+      "max": 0.83,
+      "weapon_type": "P250",
+      "item_name": "Contamination",
+      "rarity_name": "Industrial Grade",
+      "quality_name": "Souvenir",
+      "wear_name": "Minimal Wear",
+      "full_item_name": "Souvenir P250 | Contamination (Minimal Wear)",
+      "s": "76561198077947014",
+      "a": "38991613913",
+      "d": "17169068279948043590",
+      "m": "0"
+    }
+  },
+  {
+    "assetId": "38991598453",
+    "appid": "730",
+    "classid": "3634060861",
+    "instanceid": "188530139",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8NqjummJW4NE_jOjA8Y73jQ3t-EZsMW6hIobHJA47M12C-le3wLvnjJDv7ZTPzyNn7j5iuyhBizT7_A",
+    "icon_drag_url": "",
+    "name": "Souvenir Galil AR | Hunting Blind",
+    "market_hash_name": "Souvenir Galil AR | Hunting Blind (Factory New)",
+    "market_name": "Souvenir Galil AR | Hunting Blind (Factory New)",
+    "name_color": "FFD700",
+    "background_color": "",
+    "type": "Souvenir Consumer Grade Rifle",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Factory New"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "This item commemorates the 2018 FACEIT London CS:GO Championship.",
+        "color": "ffd700"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "It was dropped during the Group Stage match between MIBR and Ninjas in Pyjamas, and autographed by Jacky Yip who was the most valuable player in that round.",
+        "color": "ffd700"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been spray-painted freehand using mesh fabric as a stencil."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The Mirage Collection",
+        "color": "9da1a9",
+        "app_data": {
+          "def_index": "65535",
+          "is_itemset_name": 1
+        }
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/mibr_gold.f01c3d6737f2c9c09a41aeff78022cbe3514ed14.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/faceit_gold.c4c827676b1b20384c53bcdf3da5f6069df4d386.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/sig_stewie2k_gold.bcc9d17e7bd2a61d5bcc3f2c4fe286789f20d0f4.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/nip_gold.c53c3861d38fa89f8369d85172b7b0d9e02f8be8.png\"><br>Sticker: MIBR (Gold) | London 2018, FACEIT (Gold) | London 2018, Stewie2K (Gold) | London 2018, Ninjas in Pyjamas (Gold) | London 2018</center></div>",
+        "app_data": {
+          "def_index": "65535"
+        }
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D14424616889773650401"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D14424616889773650401"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_Rifle",
+        "name": "Rifle",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "weapon_galilar",
+        "name": "Galil AR",
+        "category": "Weapon",
+        "category_name": "Weapon"
+      },
+      {
+        "internal_name": "set_mirage",
+        "name": "The Mirage Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "tournament",
+        "name": "Souvenir",
+        "category": "Quality",
+        "color": "FFD700",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Common_Weapon",
+        "name": "Consumer Grade",
+        "category": "Rarity",
+        "color": "b0c3d9",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory0",
+        "name": "Factory New",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      },
+      {
+        "internal_name": "Tournament14",
+        "name": "2018 FACEIT London",
+        "category": "Tournament",
+        "category_name": "Tournament"
+      },
+      {
+        "internal_name": "Team80",
+        "name": "MIBR",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      },
+      {
+        "internal_name": "Team1",
+        "name": "Ninjas in Pyjamas",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      },
+      {
+        "internal_name": "stewie2k",
+        "name": "Stewie2K (Jacky Yip)",
+        "category": "ProPlayer",
+        "category_name": "Professional Player"
+      }
+    ],
+    "info": {
+      "origin": 8,
+      "quality": 12,
+      "rarity": 1,
+      "paintseed": 87,
+      "defindex": 13,
+      "paintindex": 241,
+      "stickers": [
+        {
+          "stickerId": 2970,
+          "slot": 0,
+          "wear": 0,
+          "codename": "london2018_team_mibr_gold",
+          "material": "london2018/mibr_gold",
+          "name": "MIBR (Gold) | London 2018"
+        },
+        {
+          "stickerId": 3054,
+          "slot": 1,
+          "wear": 0,
+          "codename": "london2018_team_faceit_gold",
+          "material": "london2018/faceit_gold",
+          "name": "FACEIT (Gold) | London 2018"
+        },
+        {
+          "stickerId": 3136,
+          "slot": 2,
+          "wear": 0,
+          "codename": "london2018_signature_stewie2k_gold",
+          "material": "london2018/sig_stewie2k_gold",
+          "name": "Stewie2K (Gold) | London 2018"
+        },
+        {
+          "stickerId": 3022,
+          "slot": 3,
+          "wear": 0,
+          "codename": "london2018_team_nip_gold",
+          "material": "london2018/nip_gold",
+          "name": "Ninjas in Pyjamas (Gold) | London 2018"
+        }
+      ],
+      "floatvalue": 0.039134472608566284,
+      "floatid": 17782089398,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_galilar_sp_mesh_slashes_light_large.f3c1ef94e52aa6cfe3c3ba2890e0d5ac0764900a.png",
+      "min": 0,
+      "max": 0.6,
+      "weapon_type": "Galil AR",
+      "item_name": "Hunting Blind",
+      "rarity_name": "Consumer Grade",
+      "quality_name": "Souvenir",
+      "wear_name": "Factory New",
+      "full_item_name": "Souvenir Galil AR | Hunting Blind (Factory New)",
+      "s": "76561198077947014",
+      "a": "38991598453",
+      "d": "14424616889773650401",
+      "m": "0"
+    }
+  },
+  {
+    "assetId": "38846671138",
+    "appid": "730",
+    "classid": "6066086297",
+    "instanceid": "5869767948",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszHeDFH6OO7kYSCgvq6YOKFkD1XvZRz2rmYporw3Vfk_RZkMGD6doeUcA86Yg6C-APtyO_v0Ij84sqHVshLpA",
+    "icon_drag_url": "",
+    "name": "AK-47 | Case Hardened",
+    "market_hash_name": "AK-47 | Case Hardened (Well-Worn)",
+    "market_name": "AK-47 | Case Hardened (Well-Worn)",
+    "name_color": "D2D2D2",
+    "background_color": "",
+    "type": "Classified Rifle",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Well-Worn"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "value": "Name Tag: ''一步一句是相思''",
+        "color": "b0c3d9"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been color case-hardened through the application of wood charcoal at high temperatures.\n\n<i>A little color never hurt anyone</i>"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The Arms Deal Collection",
+        "color": "9da1a9",
+        "app_data": {
+          "def_index": "65535",
+          "is_itemset_name": 1
+        }
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/tit.79f53164d6c3d0833ae1597f6a495e51907bce15.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/c9.32ec80c3911e35d9777d134a46017568e28b066f.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/c9.32ec80c3911e35d9777d134a46017568e28b066f.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cph2024/c9.72711e55b4ed08a57dbba5483b1ff6e8236089d5.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cph2024/c9.72711e55b4ed08a57dbba5483b1ff6e8236089d5.png\"><br>Sticker: Titan | Cluj-Napoca 2015, Cloud9 | Krakow 2017, Cloud9 | Krakow 2017, Cloud9 | Copenhagen 2024, Cloud9 | Copenhagen 2024</center></div>",
+        "app_data": {
+          "def_index": "65535"
+        }
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7811080201229889465"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D7811080201229889465"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_Rifle",
+        "name": "Rifle",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "weapon_ak47",
+        "name": "AK-47",
+        "category": "Weapon",
+        "category_name": "Weapon"
+      },
+      {
+        "internal_name": "set_weapons_i",
+        "name": "The Arms Deal Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "normal",
+        "name": "Normal",
+        "category": "Quality",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Legendary_Weapon",
+        "name": "Classified",
+        "category": "Rarity",
+        "color": "d32ce6",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory3",
+        "name": "Well-Worn",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      },
+      {
+        "internal_name": "Tournament8",
+        "name": "2015 DreamHack Cluj-Napoca",
+        "category": "Tournament",
+        "category_name": "Tournament"
+      },
+      {
+        "internal_name": "Tournament12",
+        "name": "2017 PGL Krakow",
+        "category": "Tournament",
+        "category_name": "Tournament"
+      },
+      {
+        "internal_name": "Tournament22",
+        "name": "PGL Copenhagen 2024",
+        "category": "Tournament",
+        "category_name": "Tournament"
+      },
+      {
+        "internal_name": "Team27",
+        "name": "Titan",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      },
+      {
+        "internal_name": "Team33",
+        "name": "Cloud9",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      }
+    ],
+    "info": {
+      "origin": 8,
+      "quality": 4,
+      "rarity": 5,
+      "paintseed": 565,
+      "defindex": 7,
+      "paintindex": 44,
+      "stickers": [
+        {
+          "stickerId": 944,
+          "slot": 3,
+          "wear": 0,
+          "codename": "cluj2015_team_tit",
+          "material": "cluj2015/tit",
+          "name": "Titan | Cluj-Napoca 2015"
+        },
+        {
+          "stickerId": 2107,
+          "slot": 0,
+          "wear": 0,
+          "offset_x": -0.08750033,
+          "offset_y": -0.020674974,
+          "codename": "krakow2017_team_c9",
+          "material": "krakow2017/c9",
+          "name": "Cloud9 | Krakow 2017"
+        },
+        {
+          "stickerId": 2107,
+          "slot": 2,
+          "wear": 0,
+          "offset_x": 0.13842398,
+          "offset_y": -0.019605637,
+          "codename": "krakow2017_team_c9",
+          "material": "krakow2017/c9",
+          "name": "Cloud9 | Krakow 2017"
+        },
+        {
+          "stickerId": 7286,
+          "slot": 0,
+          "wear": 0,
+          "offset_x": -0.1795158,
+          "offset_y": 0.18463597,
+          "rotation": 42
+        },
+        {
+          "stickerId": 7286,
+          "slot": 0,
+          "wear": 0,
+          "offset_x": 0.016073376,
+          "offset_y": -0.021404386,
+          "rotation": -3
+        }
+      ],
+      "floatvalue": 0.4485422372817993,
+      "floatid": 16946829007,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_ak47_aq_oiled_light_large.92c8d125e4e54758d37e946496030e9a18833b58.png",
+      "min": 0,
+      "max": 1,
+      "weapon_type": "AK-47",
+      "item_name": "Case Hardened",
+      "rarity_name": "Classified",
+      "quality_name": "Unique",
+      "wear_name": "Well-Worn",
+      "full_item_name": "AK-47 | Case Hardened (Well-Worn)",
+      "s": "76561198077947014",
+      "a": "38846671138",
+      "d": "7811080201229889465",
+      "m": "0"
+    }
+  },
+  {
+    "assetId": "38762156512",
+    "appid": "730",
+    "classid": "1989275199",
+    "instanceid": "302028390",
+    "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI3DyeyfFJjOXSF1tHrFfZG7fq2Hwt7iURT_AFeh4Eg9QevENpDJKO83aORQ9gNRe_iuomUM7HRkkfddLZQOvw2QfKOBzyiBHJ5nQG3MrGA",
+    "icon_drag_url": "",
+    "name": "Sealed Graffiti | QQ (Wire Blue)",
+    "market_hash_name": "Sealed Graffiti | QQ (Wire Blue)",
+    "market_name": "Sealed Graffiti | QQ (Wire Blue)",
+    "name_color": "D2D2D2",
+    "background_color": "",
+    "type": "Base Grade Graffiti",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 1,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "",
+        "color": "00a000",
+        "app_data": {
+          "limited": 1
+        }
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16447221722327065924"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16447221722327065924"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_Spray",
+        "name": "Graffiti",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "normal",
+        "name": "Normal",
+        "category": "Quality",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Common",
+        "name": "Base Grade",
+        "category": "Rarity",
+        "color": "b0c3d9",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "Tint11",
+        "name": "Wire Blue",
+        "category": "SprayColorCategory",
+        "category_name": "Graffiti Color"
+      }
+    ],
+    "info": {
+      "origin": 24,
+      "quality": 4,
+      "rarity": 1,
+      "paintseed": 0,
+      "defindex": 1348,
+      "paintindex": 0,
+      "stickers": [
+        {
+          "stickerId": 1706,
+          "slot": 0,
+          "wear": 0,
+          "codename": "spray_std_emo_despair",
+          "material": "default/emo_despair",
+          "name": "Wire Blue"
+        }
+      ],
+      "floatvalue": 0,
+      "min": 0.06,
+      "max": 0.8,
+      "weapon_type": "Sealed Graffiti",
+      "item_name": "-",
+      "rarity_name": "Base Grade",
+      "quality_name": "Unique",
+      "full_item_name": "Sealed Graffiti",
+      "s": "76561198077947014",
+      "a": "38762156512",
+      "d": "16447221722327065924",
+      "m": "0"
+    }
+  },
+  {
+    "assetId": "38501255442",
+    "appid": "730",
+    "classid": "5874902114",
+    "instanceid": "480085569",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OnHdTRD746JmImMn-O6Yr7VlThUu8F3jLvFp9_33lXg_EQ9amDwI4-VJANqZgrXqQDsl-7sjIj84spc5ywyww",
+    "icon_drag_url": "",
+    "name": "AWP | Sun in Leo",
+    "market_hash_name": "AWP | Sun in Leo (Factory New)",
+    "market_name": "AWP | Sun in Leo (Factory New)",
+    "name_color": "D2D2D2",
+    "background_color": "",
+    "type": "Industrial Grade Sniper Rifle",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Factory New"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been painted with a hydrographic in a zodiac motif.\n\n<i>It's going to be a rough month for your enemies</i>"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The Gods and Monsters Collection",
+        "color": "9da1a9",
+        "app_data": {
+          "def_index": "65535",
+          "is_itemset_name": 1
+        }
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/fnatic_foil.394c02234461ec74b566f69cccefa914f723a564.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/sig_m0nesy.e5e2d1066073221f391096c5f17d905b54a60c38.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community/community_2024/paper_please_return.8630a1660f52e761be2075159483def543c65374.png\"><br>Sticker: Fnatic (Foil) | Cologne 2015, m0NESY | Antwerp 2022, Please Return To</center></div>",
+        "app_data": {
+          "def_index": "65535"
+        }
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D9524139605765545675"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D9524139605765545675"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_SniperRifle",
+        "name": "Sniper Rifle",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "weapon_awp",
+        "name": "AWP",
+        "category": "Weapon",
+        "category_name": "Weapon"
+      },
+      {
+        "internal_name": "set_gods_and_monsters",
+        "name": "The Gods and Monsters Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "normal",
+        "name": "Normal",
+        "category": "Quality",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Uncommon_Weapon",
+        "name": "Industrial Grade",
+        "category": "Rarity",
+        "color": "5e98d9",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory0",
+        "name": "Factory New",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      },
+      {
+        "internal_name": "Tournament7",
+        "name": "2015 ESL One Cologne",
+        "category": "Tournament",
+        "category_name": "Tournament"
+      },
+      {
+        "internal_name": "Tournament19",
+        "name": "2022 PGL Antwerp",
+        "category": "Tournament",
+        "category_name": "Tournament"
+      },
+      {
+        "internal_name": "Team6",
+        "name": "Fnatic",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      },
+      {
+        "internal_name": "Team59",
+        "name": "G2 Esports",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      },
+      {
+        "internal_name": "m0nesy",
+        "name": "m0NESY (Ilia Osipov)",
+        "category": "ProPlayer",
+        "category_name": "Professional Player"
+      }
+    ],
+    "info": {
+      "origin": 4,
+      "quality": 4,
+      "rarity": 2,
+      "paintseed": 296,
+      "defindex": 9,
+      "paintindex": 451,
+      "stickers": [
+        {
+          "stickerId": 621,
+          "slot": 3,
+          "wear": 0,
+          "codename": "eslcologne2015_team_fnatic_foil",
+          "material": "cologne2015/fnatic_foil",
+          "name": "Fnatic (Foil) | Cologne 2015"
+        },
+        {
+          "stickerId": 5588,
+          "slot": 0,
+          "wear": 0,
+          "offset_x": -0.10598332,
+          "offset_y": -0.007081032,
+          "codename": "antwerp2022_signature_m0nesy_1",
+          "material": "antwerp2022/sig_m0nesy",
+          "name": "m0NESY | Antwerp 2022"
+        },
+        {
+          "stickerId": 7237,
+          "slot": 0,
+          "wear": 0,
+          "offset_x": -0.14552188,
+          "offset_y": -0.01989001,
+          "rotation": -9
+        }
+      ],
+      "floatvalue": 0.029155980795621872,
+      "floatid": 14929706337,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_awp_hy_zodiac2_light_large.67da534322361569bd9637688b704b57232529fa.png",
+      "min": 0,
+      "max": 0.5,
+      "weapon_type": "AWP",
+      "item_name": "Sun in Leo",
+      "rarity_name": "Industrial Grade",
+      "quality_name": "Unique",
+      "wear_name": "Factory New",
+      "full_item_name": "AWP | Sun in Leo (Factory New)",
+      "s": "76561198077947014",
+      "a": "38501255442",
+      "d": "9524139605765545675",
+      "m": "0"
+    }
+  },
+  {
+    "assetId": "38457405706",
+    "appid": "730",
+    "classid": "5941423205",
+    "instanceid": "5840071398",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Gw_alIITTmn5U-8h-gez--YXygED68hdkMm_1IoCcI1A_aQ6E81nvk-nogcO_tZ-cwHdjuHEqt3vYzRSziQYMMLLcIJ2naA",
+    "icon_drag_url": "",
+    "name": "M4A1-S | Blue Phosphor",
+    "market_hash_name": "M4A1-S | Blue Phosphor (Factory New)",
+    "market_name": "M4A1-S | Blue Phosphor (Factory New)",
+    "name_color": "D2D2D2",
+    "background_color": "",
+    "type": "Classified Rifle",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Factory New"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "value": "Name Tag: ''爱♡死亡♡机器人''",
+        "color": "b0c3d9"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. Multiple layers of metallic blue paint have been applied over a chrome blue base coat.\n\n<i>Feeling blue?</i>"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The Control Collection",
+        "color": "9da1a9",
+        "app_data": {
+          "def_index": "65535",
+          "is_itemset_name": 1
+        }
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/alyx/health_foil.be305dc102b6aa8190a689d52988fe9b33727b1b.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/alyx/health_foil.be305dc102b6aa8190a689d52988fe9b33727b1b.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/alyx/health_foil.be305dc102b6aa8190a689d52988fe9b33727b1b.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cph2024/c9_glitter.c9dc84361ae7820c0be976b80ff871af5e2b3564.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cph2024/c9_holo.e6f39079ab6fdd5be52dc67611980c869a7ebacf.png\"><br>Sticker: Health (Gold), Health (Gold), Health (Gold), Cloud9 (Glitter) | Copenhagen 2024, Cloud9 (Holo) | Copenhagen 2024</center></div>",
+        "app_data": {
+          "def_index": "65535"
+        }
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D3030410471616501124"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D3030410471616501124"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_Rifle",
+        "name": "Rifle",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "weapon_m4a1_silencer",
+        "name": "M4A1-S",
+        "category": "Weapon",
+        "category_name": "Weapon"
+      },
+      {
+        "internal_name": "set_op10_ct",
+        "name": "The Control Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "normal",
+        "name": "Normal",
+        "category": "Quality",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Legendary_Weapon",
+        "name": "Classified",
+        "category": "Rarity",
+        "color": "d32ce6",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory0",
+        "name": "Factory New",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      },
+      {
+        "internal_name": "Tournament22",
+        "name": "PGL Copenhagen 2024",
+        "category": "Tournament",
+        "category_name": "Tournament"
+      },
+      {
+        "internal_name": "Team33",
+        "name": "Cloud9",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      }
+    ],
+    "info": {
+      "origin": 4,
+      "quality": 4,
+      "rarity": 5,
+      "paintseed": 785,
+      "defindex": 60,
+      "paintindex": 1017,
+      "stickers": [
+        {
+          "stickerId": 4613,
+          "slot": 1,
+          "wear": 0.9190467,
+          "offset_x": -0.015541911,
+          "offset_y": -0.03570494,
+          "codename": "health_foil",
+          "material": "alyx/health_foil",
+          "name": "Health (Gold)"
+        },
+        {
+          "stickerId": 4613,
+          "slot": 0,
+          "wear": 0.86741525,
+          "offset_x": -0.0038371086,
+          "offset_y": -0.0058353543,
+          "codename": "health_foil",
+          "material": "alyx/health_foil",
+          "name": "Health (Gold)"
+        },
+        {
+          "stickerId": 4613,
+          "slot": 1,
+          "wear": 0.92121655,
+          "offset_x": 0.0444178,
+          "offset_y": -0.036123604,
+          "codename": "health_foil",
+          "material": "alyx/health_foil",
+          "name": "Health (Gold)"
+        },
+        {
+          "stickerId": 7287,
+          "slot": 1,
+          "wear": 0
+        },
+        {
+          "stickerId": 7288,
+          "slot": 1,
+          "wear": 0
+        }
+      ],
+      "floatvalue": 0.005336869042366743,
+      "floatid": 22471944569,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_am_m4a1s_bluesmoke_light_large.20c39cd69587cfed699f1e1ebb05f4dc735e06d6.png",
+      "min": 0,
+      "max": 0.08,
+      "weapon_type": "M4A1-S",
+      "item_name": "Blue Phosphor",
+      "rarity_name": "Classified",
+      "quality_name": "Unique",
+      "wear_name": "Factory New",
+      "full_item_name": "M4A1-S | Blue Phosphor (Factory New)",
+      "s": "76561198077947014",
+      "a": "38457405706",
+      "d": "3030410471616501124",
+      "m": "0"
+    }
+  },
+  {
+    "assetId": "38244944460",
+    "appid": "730",
+    "classid": "1366981431",
+    "instanceid": "188530139",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj4OrzZgiVQsMYj2bmZrI330Qy2-0Y_ajzwI4Kcdw9qMl2GqwW6kOq71p-4vZXA1zI97X73VbtW",
+    "icon_drag_url": "",
+    "name": "Souvenir Nova | Walnut",
+    "market_hash_name": "Souvenir Nova | Walnut (Minimal Wear)",
+    "market_name": "Souvenir Nova | Walnut (Minimal Wear)",
+    "name_color": "FFD700",
+    "background_color": "",
+    "type": "Souvenir Consumer Grade Shotgun",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Minimal Wear"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "This item commemorates the 2015 DreamHack Cluj-Napoca CS:GO Championship.",
+        "color": "ffd700"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "It was dropped during the Group Stage match between Luminosity Gaming and Fnatic, and autographed by Gabriel Toledo who was the most valuable player in that round.",
+        "color": "ffd700"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has a figured walnut stock."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The Inferno Collection",
+        "color": "9da1a9",
+        "app_data": {
+          "def_index": "65535",
+          "is_itemset_name": 1
+        }
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/dhc_gold.f0a94e58a65e35b2f1dc5aef32ea75172b576d0a.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/fntc_gold.9e177073610911f6889d75f49341246a15319a9d.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/sig_fallen_gold.6ef3d5fa3d7305b386d3ebd45e87241b07205819.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/lumi_gold.c4c40b1f752a2c4c29c4210e49f4ab1e9562ae9e.png\"><br>Sticker: DreamHack (Gold) | Cluj-Napoca 2015, Fnatic (Gold) | Cluj-Napoca 2015, FalleN (Gold) | Cluj-Napoca 2015, Luminosity Gaming (Gold) | Cluj-Napoca 2015</center></div>",
+        "app_data": {
+          "def_index": "65535"
+        }
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16620585751397818419"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16620585751397818419"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_Shotgun",
+        "name": "Shotgun",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "weapon_nova",
+        "name": "Nova",
+        "category": "Weapon",
+        "category_name": "Weapon"
+      },
+      {
+        "internal_name": "set_inferno",
+        "name": "The Inferno Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "tournament",
+        "name": "Souvenir",
+        "category": "Quality",
+        "color": "FFD700",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Common_Weapon",
+        "name": "Consumer Grade",
+        "category": "Rarity",
+        "color": "b0c3d9",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory1",
+        "name": "Minimal Wear",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      },
+      {
+        "internal_name": "Tournament8",
+        "name": "2015 DreamHack Cluj-Napoca",
+        "category": "Tournament",
+        "category_name": "Tournament"
+      },
+      {
+        "internal_name": "Team57",
+        "name": "Luminosity Gaming",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      },
+      {
+        "internal_name": "Team6",
+        "name": "Fnatic",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      },
+      {
+        "internal_name": "fallen",
+        "name": "FalleN (Gabriel Toledo)",
+        "category": "ProPlayer",
+        "category_name": "Professional Player"
+      }
+    ],
+    "info": {
+      "origin": 8,
+      "quality": 12,
+      "rarity": 1,
+      "paintseed": 992,
+      "defindex": 35,
+      "paintindex": 158,
+      "stickers": [
+        {
+          "stickerId": 961,
+          "slot": 0,
+          "wear": 0,
+          "codename": "cluj2015_team_dhc_gold",
+          "material": "cluj2015/dhc_gold",
+          "name": "DreamHack (Gold) | Cluj-Napoca 2015"
+        },
+        {
+          "stickerId": 955,
+          "slot": 1,
+          "wear": 0,
+          "codename": "cluj2015_team_fntc_gold",
+          "material": "cluj2015/fntc_gold",
+          "name": "Fnatic (Gold) | Cluj-Napoca 2015"
+        },
+        {
+          "stickerId": 769,
+          "slot": 2,
+          "wear": 0,
+          "codename": "cluj2015_signature_fallen_gold",
+          "material": "cluj2015/sig_fallen_gold",
+          "name": "FalleN (Gold) | Cluj-Napoca 2015"
+        },
+        {
+          "stickerId": 958,
+          "slot": 3,
+          "wear": 0,
+          "codename": "cluj2015_team_lumi_gold",
+          "material": "cluj2015/lumi_gold",
+          "name": "Luminosity Gaming (Gold) | Cluj-Napoca 2015"
+        }
+      ],
+      "floatvalue": 0.1282079964876175,
+      "floatid": 16381031538,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_nova_cu_walnut_nova_light_large.38cd0f88162ed88eb81df71f5fb18139c3a36c77.png",
+      "min": 0.06,
+      "max": 0.8,
+      "weapon_type": "Nova",
+      "item_name": "Walnut",
+      "rarity_name": "Consumer Grade",
+      "quality_name": "Souvenir",
+      "wear_name": "Minimal Wear",
+      "full_item_name": "Souvenir Nova | Walnut (Minimal Wear)",
+      "s": "76561198077947014",
+      "a": "38244944460",
+      "d": "16620585751397818419",
+      "m": "0"
+    }
+  },
+  {
+    "assetId": "38096484831",
+    "appid": "730",
+    "classid": "2432058793",
+    "instanceid": "188530139",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFfwOP3fyhB4Nm3hr-bluPgNqnfxVRf7cJ0nNbN_Iv9nBqyqBU6N2zzJYfEIVA7MlHX-1jsxebt0ZS67p-YnHcxuXF34H_enBeyn1gSOQ5URqGf",
+    "icon_drag_url": "",
+    "name": "Souvenir Negev | Nuclear Waste",
+    "market_hash_name": "Souvenir Negev | Nuclear Waste (Factory New)",
+    "market_name": "Souvenir Negev | Nuclear Waste (Factory New)",
+    "name_color": "FFD700",
+    "background_color": "",
+    "type": "Souvenir Industrial Grade Machinegun",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Factory New"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "This item commemorates the 2017 PGL Krakow CS:GO Championship.",
+        "color": "ffd700"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "It was dropped during the Quarterfinal match between Astralis and SK Gaming, and autographed by Fernando Alvarenga who was the most valuable player in that round.",
+        "color": "ffd700"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been painted with a hydrographic pattern of nuclear hazards symbols."
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The Cache Collection",
+        "color": "9da1a9",
+        "app_data": {
+          "def_index": "65535",
+          "is_itemset_name": 1
+        }
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/astr_gold.d9174ac67da1b983b866385634cfe2f19d1f00f0.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/sig_fer_gold.4f1699fa61eeadb8eccb3f8e670c40102cabf1c9.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/sk_gold.b20cc35fb35bac94d6115e8b2ba631ecbee70515.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/pgl_gold.6ecafc09870da9001ebf18ea0e5d9ffee4d44293.png\"><br>Sticker: Astralis (Gold) | Krakow 2017, fer (Gold) | Krakow 2017, SK Gaming (Gold) | Krakow 2017, PGL (Gold) | Krakow 2017</center></div>",
+        "app_data": {
+          "def_index": "65535"
+        }
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D731452637104430532"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D731452637104430532"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_Machinegun",
+        "name": "Machinegun",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "weapon_negev",
+        "name": "Negev",
+        "category": "Weapon",
+        "category_name": "Weapon"
+      },
+      {
+        "internal_name": "set_cache",
+        "name": "The Cache Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "tournament",
+        "name": "Souvenir",
+        "category": "Quality",
+        "color": "FFD700",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Uncommon_Weapon",
+        "name": "Industrial Grade",
+        "category": "Rarity",
+        "color": "5e98d9",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory0",
+        "name": "Factory New",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      },
+      {
+        "internal_name": "Tournament12",
+        "name": "2017 PGL Krakow",
+        "category": "Tournament",
+        "category_name": "Tournament"
+      },
+      {
+        "internal_name": "Team60",
+        "name": "Astralis",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      },
+      {
+        "internal_name": "Team14",
+        "name": "SK Gaming",
+        "category": "TournamentTeam",
+        "category_name": "Team"
+      },
+      {
+        "internal_name": "fer",
+        "name": "fer (Fernando Alvarenga)",
+        "category": "ProPlayer",
+        "category_name": "Professional Player"
+      }
+    ],
+    "info": {
+      "origin": 8,
+      "quality": 12,
+      "rarity": 2,
+      "paintseed": 460,
+      "defindex": 28,
+      "paintindex": 369,
+      "stickers": [
+        {
+          "stickerId": 2066,
+          "slot": 0,
+          "wear": 0,
+          "codename": "krakow2017_team_astr_gold",
+          "material": "krakow2017/astr_gold",
+          "name": "Astralis (Gold) | Krakow 2017"
+        },
+        {
+          "stickerId": 2204,
+          "slot": 1,
+          "wear": 0,
+          "codename": "krakow2017_signature_fer_gold",
+          "material": "krakow2017/sig_fer_gold",
+          "name": "fer (Gold) | Krakow 2017"
+        },
+        {
+          "stickerId": 2078,
+          "slot": 2,
+          "wear": 0,
+          "codename": "krakow2017_team_sk_gold",
+          "material": "krakow2017/sk_gold",
+          "name": "SK Gaming (Gold) | Krakow 2017"
+        },
+        {
+          "stickerId": 2130,
+          "slot": 3,
+          "wear": 0,
+          "codename": "krakow2017_team_pgl_gold",
+          "material": "krakow2017/pgl_gold",
+          "name": "PGL (Gold) | Krakow 2017"
+        }
+      ],
+      "floatvalue": 0.032153911888599396,
+      "floatid": 18456385986,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_negev_sp_nuclear_pattern3_negev_light_large.2d4cd96f9a94367d4c22991250eb9350437d8be6.png",
+      "min": 0,
+      "max": 0.4,
+      "weapon_type": "Negev",
+      "item_name": "Nuclear Waste",
+      "rarity_name": "Industrial Grade",
+      "quality_name": "Souvenir",
+      "wear_name": "Factory New",
+      "full_item_name": "Souvenir Negev | Nuclear Waste (Factory New)",
+      "s": "76561198077947014",
+      "a": "38096484831",
+      "d": "731452637104430532",
+      "m": "0"
+    }
+  },
+  {
+    "assetId": "38039895513",
+    "appid": "730",
+    "classid": "5882291512",
+    "instanceid": "188530139",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JnI-HmMj7ML7QmFRd4cJ5nqeRpo_xjlC2_ktsNzv1JNKWIwFqYFqGrwO8xbjrh5XpuZSdy3YyuSQk-z-DyCBURV_T",
+    "icon_drag_url": "",
+    "name": "FAMAS | Waters of Nephthys",
+    "market_hash_name": "FAMAS | Waters of Nephthys (Minimal Wear)",
+    "market_name": "FAMAS | Waters of Nephthys (Minimal Wear)",
+    "name_color": "D2D2D2",
+    "background_color": "",
+    "type": "Classified Rifle",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Minimal Wear"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. The blues on this custom painted FAMAS shift as lighting conditions change.\n\n<i>Water always wins</i>"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "The Anubis Collection",
+        "color": "9da1a9",
+        "app_data": {
+          "def_index": "65535",
+          "is_itemset_name": 1
+        }
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community2022/snow_glitter.c1a88a3b5312a242b3bb3dc7ae9e456c9688976c.png\"><br>Sticker: Snowfall (Glitter)</center></div>",
+        "app_data": {
+          "def_index": "65535"
+        }
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16494655920986134774"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16494655920986134774"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "CSGO_Type_Rifle",
+        "name": "Rifle",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "weapon_famas",
+        "name": "FAMAS",
+        "category": "Weapon",
+        "category_name": "Weapon"
+      },
+      {
+        "internal_name": "set_anubis",
+        "name": "The Anubis Collection",
+        "category": "ItemSet",
+        "category_name": "Collection"
+      },
+      {
+        "internal_name": "normal",
+        "name": "Normal",
+        "category": "Quality",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Legendary_Weapon",
+        "name": "Classified",
+        "category": "Rarity",
+        "color": "d32ce6",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory1",
+        "name": "Minimal Wear",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      }
+    ],
+    "info": {
+      "origin": 8,
+      "quality": 4,
+      "rarity": 5,
+      "paintseed": 519,
+      "defindex": 10,
+      "paintindex": 1241,
+      "stickers": [
+        {
+          "stickerId": 6602,
+          "slot": 3,
+          "wear": 0,
+          "offset_x": 0.31875327,
+          "offset_y": -0.005317539,
+          "codename": "community2022_snow_glitter",
+          "material": "community2022/snow_glitter",
+          "name": "Snowfall (Glitter)"
+        }
+      ],
+      "floatvalue": 0.11843784153461456,
+      "floatid": 37436235571,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_famas_cu_famas_holo_ocean_light_large.e9efee74629f50aab0110ae3fc6a07aabac679e0.png",
+      "min": 0,
+      "max": 0.7,
+      "weapon_type": "FAMAS",
+      "item_name": "Waters of Nephthys",
+      "rarity_name": "Classified",
+      "quality_name": "Unique",
+      "wear_name": "Minimal Wear",
+      "full_item_name": "FAMAS | Waters of Nephthys (Minimal Wear)",
+      "s": "76561198077947014",
+      "a": "38039895513",
+      "d": "16494655920986134774",
+      "m": "0"
+    }
+  },
+  {
+    "assetId": "37680442236",
+    "appid": "730",
+    "classid": "4142091157",
+    "instanceid": "188530139",
+    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz--InxgUG55RE-ZjugI9KXdg43Zl_Z-QDrk-rpgsTv6ZuYwXJjuykgs3bcmxfkgk5SLrs4C8pyj20",
+    "icon_drag_url": "",
+    "name": "★ Driver Gloves | Black Tie",
+    "market_hash_name": "★ Driver Gloves | Black Tie (Well-Worn)",
+    "market_name": "★ Driver Gloves | Black Tie (Well-Worn)",
+    "name_color": "8650AC",
+    "background_color": "",
+    "type": "★ Extraordinary Gloves",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 0,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+      {
+        "type": "html",
+        "value": "Exterior: Well-Worn"
+      },
+      {
+        "type": "html",
+        "value": " "
+      },
+      {
+        "type": "html",
+        "value": "These driving gloves offer protection from the elements while still maintaining tactile sensation. "
+      },
+      {
+        "type": "html",
+        "value": " "
+      }
+    ],
+    "actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7063694638354443671"
+      }
+    ],
+    "market_actions": [
+      {
+        "name": "Inspect in Game...",
+        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D7063694638354443671"
+      }
+    ],
+    "tags": [
+      {
+        "internal_name": "Type_Hands",
+        "name": "Gloves",
+        "category": "Type",
+        "category_name": "Type"
+      },
+      {
+        "internal_name": "unusual",
+        "name": "★",
+        "category": "Quality",
+        "color": "8650AC",
+        "category_name": "Category"
+      },
+      {
+        "internal_name": "Rarity_Ancient",
+        "name": "Extraordinary",
+        "category": "Rarity",
+        "color": "eb4b4b",
+        "category_name": "Quality"
+      },
+      {
+        "internal_name": "WearCategory3",
+        "name": "Well-Worn",
+        "category": "Exterior",
+        "category_name": "Exterior"
+      }
+    ],
+    "info": {
+      "origin": 8,
+      "quality": 3,
+      "rarity": 6,
+      "paintseed": 451,
+      "defindex": 5031,
+      "paintindex": 10072,
+      "floatvalue": 0.3916946053504944,
+      "floatid": 23462348718,
+      "imageurl": "http://media.steampowered.com/apps/730/icons/econ/default_generated/slick_gloves_slick_stitched_black_white_light_large.40e9a843153a7b14540f53e1c34322ab9a4a08b5.png",
+      "min": 0.06,
+      "max": 0.8,
+      "weapon_type": "Driver Gloves",
+      "item_name": "Black Tie",
+      "rarity_name": "Covert",
+      "quality_name": "★",
+      "wear_name": "Well-Worn",
+      "full_item_name": "★ Driver Gloves | Black Tie (Well-Worn)",
+      "s": "76561198077947014",
+      "a": "37680442236",
+      "d": "7063694638354443671",
+      "m": "0"
+    }
+  }
+]
