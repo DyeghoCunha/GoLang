@@ -113,6 +113,7 @@ func leSitesDoArquivo() []string {
 		}
 
 	}
-	fmt.Println(sites)
+	arquivo.Close()
+	//fmt.Println(sites)
 	return sites
 }
