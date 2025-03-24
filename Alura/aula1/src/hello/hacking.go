@@ -6,6 +6,8 @@ import (
 	"io"
 	"net/http"
 	"os"
+	"strconv"
+	_ "strconv"
 	"strings"
 	"time"
 )
@@ -15,7 +17,7 @@ const delay = 5
 
 func main() {
 	exibeIntroducao()
-	leSitesDoArquivo()
+	//leSitesDoArquivo()
 
 	for {
 		exibeMenu()
@@ -30,6 +32,7 @@ func main() {
 			iniciarMonitoramento()
 		case 2:
 			fmt.Println("Exibindo logs...")
+			imprimeLogs()
 		default:
 			fmt.Println("Não conheço este comando")
 			os.Exit(-1)
@@ -83,9 +86,15 @@ func testaSite(site string) {
 
 	switch resp.StatusCode {
 	case 200:
-		fmt.Println("Site", site, "foi carregado com sucesso")
+		{
+			fmt.Println("Site", site, "foi carregado com sucesso")
+			registraLog(site, true)
+		}
 	default:
-		fmt.Println("Site", site, "foi carregado com falha. Status Code:", resp.StatusCode)
+		{
+			fmt.Println("Site", site, "está com problemas. Status Code:", resp.StatusCode)
+			registraLog(site, false)
+		}
 	}
 }
 
@@ -116,4 +125,44 @@ func leSitesDoArquivo() []string {
 	arquivo.Close()
 	//fmt.Println(sites)
 	return sites
+}
+func registraLog(site string, status bool) {
+
+	//arquivo, err := os.Open("log.txt")
+	arquivo, err := os.OpenFile("C:\\Users\\Dyegho\\Documents\\GitHub\\GoLang\\Alura\\aula1\\src\\hello\\log.txt", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
+	if err != nil {
+		fmt.Println("Erro ao abrir o arquivo", err)
+	}
+
+	arquivo.WriteString(time.Now().Format("02/01/2006 15:04:05") + "-" + site + " - online: " + strconv.FormatBool(status) + "\n")
+	arquivo.Close()
+
+}
+
+//	func imprimeLogs() {
+//		//arquivo, err := os.Open("log.txt")
+//		arquivo, err := os.Open("C:\\Users\\Dyegho\\Documents\\GitHub\\GoLang\\Alura\\aula1\\src\\hello\\log.txt")
+//		if err != nil {
+//			fmt.Println("Erro ao abrir o arquivo", err)
+//		}
+//		leitor := bufio.NewReader(arquivo)
+//
+//		for {
+//			linha, err := leitor.ReadString('\n')
+//			fmt.Println(linha)
+//
+//			if err == io.EOF {
+//
+//				break
+//			}
+//
+//		}
+//		arquivo.close()
+//	}
+func imprimeLogs() {
+	arquivo, err := os.ReadFile("C:\\Users\\Dyegho\\Documents\\GitHub\\GoLang\\Alura\\aula1\\src\\hello\\log.txt")
+	if err != nil {
+		fmt.Println("Erro ao abrir o arquivo", err)
+	}
+	fmt.Println(string(arquivo))
 }
