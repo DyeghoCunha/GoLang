@@ -1,13 +1,33 @@
 package main
 
-import (
-	"fmt"
-) // Importa os pacotes fmt e os
+import "fmt"
+
+// Importa os pacotes fmt e os
+
+type ContaCorrente struct {
+	titular       string
+	numeroAgencia int
+	numeroConta   int
+	saldo         float64
+}
 
 func main() {
-	var titular string = "Guilherme"
-	var numeroAgencia int = 589
-	var numeroConta int = 123456
-	var saldo float64 = 125.50
-	fmt.Println(titular, numeroAgencia, numeroConta, saldo)
-} // Função principal
+	var contaDoGuilherme ContaCorrente = ContaCorrente{
+		titular:       "Guilherme",
+		numeroAgencia: 589,
+		numeroConta:   123456,
+		saldo:         125.5,
+	}
+	contaDaBruna := ContaCorrente{"Bruna", 222, 111222, 200}
+	fmt.Println(contaDoGuilherme, contaDaBruna)
+
+	var contaDaCris *ContaCorrente
+	contaDaCris = new(ContaCorrente)
+	contaDaCris.titular = "Cris"
+
+	contaDaValter := &ContaCorrente{}
+	contaDaValter.titular = "Valter"
+
+	fmt.Println(contaDaValter)
+
+}
