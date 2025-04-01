@@ -1,44 +1,27 @@
 package main
 
-import "fmt"
+import (
+	"Alura/contas"
+	"fmt"
+)
 
 // Importa os pacotes fmt e os
 
-type ContaCorrente struct {
-	titular       string
-	numeroAgencia int
-	numeroConta   int
-	saldo         float64
-}
-
 func main() {
-	//var contaDoGuilherme ContaCorrente = ContaCorrente{
-	//	titular:       "Guilherme",
-	//	numeroAgencia: 589,
-	//	numeroConta:   123456,
-	//	saldo:         125.5,
-	//}
-
-	//contaDaBruna := ContaCorrente{"Bruna", 222, 111222, 200}
-	//fmt.Println(contaDoGuilherme, contaDaBruna)g
-	//
-	var contaDaCris *ContaCorrente
-	contaDaCris = new(ContaCorrente)
-	contaDaCris.titular = "Cris"
-	var contaDaCris2 *ContaCorrente
-	contaDaCris2 = new(ContaCorrente)
-	contaDaCris2.titular = "Cris"
-	fmt.Println(contaDaCris == contaDaCris2)
-	fmt.Println(contaDaCris)
-	fmt.Println(contaDaCris2)
-	fmt.Println(*contaDaCris == *contaDaCris2)
-	fmt.Println(&contaDaCris)
-	fmt.Println(&contaDaCris2)
-	fmt.Println(&contaDaCris == &contaDaCris2)
-	//
-	//contaDaValter := &ContaCorrente{}
-	//contaDaValter.titular = "Valter"
-	//
-	//fmt.Println(contaDaValter)
-
+	contaDaSilvia := contas.ContaCorrente{
+		Titular:       "Silvia",
+		NumeroAgencia: 0,
+		NumeroConta:   0,
+		Saldo:         300,
+	}
+	contaDoGustavo := contas.ContaCorrente{
+		Titular:       "Gustavo",
+		NumeroAgencia: 0,
+		NumeroConta:   0,
+		Saldo:         100,
+	}
+	status := contaDaSilvia.Transferir(200, &contaDoGustavo)
+	fmt.Println(status)
+	fmt.Println("Conta do Gustavo:", contaDoGustavo)
+	fmt.Println("Conta da Silvia:", contaDaSilvia)
 }
