@@ -6,22 +6,21 @@ import (
 )
 
 // Importa os pacotes fmt e os
+func PagarBoleto(conta verificarConta, valorDoBoleto float64) {
+	conta.Sacar(valorDoBoleto)
+}
+
+type verificarConta interface {
+	Sacar(valor float64) string
+}
 
 func main() {
-	contaDaSilvia := contas.ContaCorrente{
-		Titular:       "Silvia",
-		NumeroAgencia: 0,
-		NumeroConta:   0,
-		Saldo:         300,
-	}
-	contaDoGustavo := contas.ContaCorrente{
-		Titular:       "Gustavo",
-		NumeroAgencia: 0,
-		NumeroConta:   0,
-		Saldo:         100,
-	}
-	status := contaDaSilvia.Transferir(200, &contaDoGustavo)
-	fmt.Println(status)
-	fmt.Println("Conta do Gustavo:", contaDoGustavo)
-	fmt.Println("Conta da Silvia:", contaDaSilvia)
+	contaDoDenis := contas.ContaCorrente{}
+	contaDoDenis.Depositar(100)
+	PagarBoleto(&contaDoDenis, 60)
+	fmt.Println(contaDoDenis.ObterSaldo())
+	contaDaLuisa := contas.ContaPoupanca{}
+	contaDaLuisa.Depositar(100)
+	PagarBoleto(&contaDaLuisa, 60)
+	fmt.Println(contaDaLuisa.ObterSaldo())
 }
