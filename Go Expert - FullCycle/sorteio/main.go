@@ -29,16 +29,16 @@ type RequestWrapper struct {
 
 func main() {
 	item := Item{
-		Image: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2JloyekvPLP7LWnn8fsZR02O-ZpY3xjAbn_0ZvZG36d4KRdAY7Y1_ZrFm7ye7ngJO0u5icwWwj5Hetfi-2VA/",
-		Name:  "Faca de Sobrevivência (★) | Aço Azul",
-		ID:    "682f8c03855432713ed93971",
+		Image: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8j3Jq_ummJW4NE_3rqSoI2njQSwr0Y6Yj3xIdKXI1c3YVDU_lHvwOnngMXtv5jPziZn6z5iuyi8MxH2DQ/",
+		Name:  "USP-S | Córtex",
+		ID:    "685c405ff1d688f58946c7f7",
 	}
 
 	giveaway := Giveaway{
-		Tier:        "Silver",
-		TicketValue: 500,
+		Tier:        "Common",
+		TicketValue: 1,
 		ItemOne:     item,
-		EndsAt:      time.Date(2025, time.July, 1, 23, 59, 59, 0, time.UTC),
+		EndsAt:      time.Date(2025, time.July, 12, 23, 59, 59, 0, time.UTC),
 	}
 
 	requestBody := RequestWrapper{Giveaway: giveaway}
@@ -55,7 +55,7 @@ func main() {
 	}
 
 	req.Header.Set("Content-Type", "application/json")
-	req.Header.Set("Authorization", "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NTVkMGZlMWExNTUxNTFjNTUwNjVjYWEiLCJpYXQiOjE3NDk1NzY2MDYsIm5iZiI6MTc0OTU3NjYwOCwiZXhwIjoxNzQ5NTk0NjA2fQ.XEutrmkTwAJnFVKRraEIRgX0CYqv_D6oyzQmUwl5W-AEZl2inmvRnC6sRDrOLoR_1Vz_21aHiWHYZh7IxOr2--iTnHzxB47BYlc_RAnIe06slSZ8WxRdBavbiGFgDFxbGBMR7ia1F9s9OspBvz_c-Dm9irZ0TQVaeD6hjUPeZF3Z7gYC0ctfYTes-N44IcN0WsdAbAW2vi3ey6PqiEfQeAJ0iVgpS1hlwpCUM-fVIpzIpSXQCz0pG0jJ0ziKRAwr1Sznvh_WQ4Ps3Jn7GRkBuKrIOQHVlDHP211CstIzqFW_-JA85QqThWcAEz-IqMuKR3Vrblpf6WZVOOAGoNXLcw")
+	req.Header.Set("Authorization", "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NTVkMGZlMWExNTUxNTFjNTUwNjVjYWEiLCJpYXQiOjE3NTE1NDM2OTEsIm5iZiI6MTc1MTU0MzY5MywiZXhwIjoxNzUxNTYxNjkxfQ.UGN2ntmACyBonFqrXDIzqlsSUqQmThE9tHz5CC6g0AnOL6MGC1CRymdjAnrLeGinNEEhYlK5zzmvnCZ64tH2o-3Qi_A1tQ7deibjcDsyoo4aDu0Qz6WEAXa2j0X_v0s8Juvw9k6qUlXyca0_k8hKGYQXhCSuiDvs-EuUV2BF8jk6lnr2rx1k1OP3UH9smV2Z203utsPgHGWpQWvDLemBCJChrY_TB2SBon5xwF0xQpUFH5BiyXny-ahL9h5h-XFEWrU2mmTHeSsen_qsJ_0RANKyxBrVi0n4ujy828jnuLTK4TX0TlWVpZh7FexX5P85jB8VvOsPKm1FHV8jRhFXrQ")
 
 	client := &http.Client{}
 	resp, err := client.Do(req)
